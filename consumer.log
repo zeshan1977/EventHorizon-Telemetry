@@ -1,0 +1,2 @@
+%6|1775007018.543|FAIL|rdkafka#consumer-1| [thrd:localhost:9092/bootstrap]: localhost:9092/bootstrap: Disconnected: connection reset by peer (after 11ms in state APIVERSION_QUERY)
+%6|1775007018.722|FAIL|rdkafka#consumer-1| [thrd:localhost:9092/bootstrap]: localhost:9092/bootstrap: Disconnected: connection reset by peer (after 0ms in state APIVERSION_QUERY, 1 identical error(s) suppressed)

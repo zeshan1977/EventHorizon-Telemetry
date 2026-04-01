@@ -1,1 +1,4 @@
-confluent-kafka\nfastapi\nuvicorn\nwebsockets
+confluent-kafka
+fastapi
+uvicorn
+websockets
